@@ -1,0 +1,8 @@
+_lcd_line1: CODE, 1916 0 4
+_lcd_line2: CODE, 1912 0 4
+_main: CODE, 1837 0 26
+_lcd_clear: CODE, 2027 0 15
+_lcd_write: CODE, 2007 0 20
+_lcd_string: CODE, 1920 0 22
+_lcd_init: CODE, 1942 0 65
+Total: 156
